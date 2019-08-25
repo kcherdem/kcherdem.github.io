@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | HCI &amp; Design Studies</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Candan Herdem is a postdoctoral researcher of HCI and Design. She is, broadly, interested in &amp;ldquo;computational tool design&amp;rdquo; to support human activities, such as design of devices, apps, interfaces etc. She focuses on order and sequence of events/actions of the objects in the contexts external to human. She applies hci and design methods while designing for computational tools.&lt;/p&gt;
+
+&lt;p&gt;She has a PhD degree in Human-Computer Interaction (HCI) from Iowa State University, and a BSc. degree in Computer Engineering (CEng) from Erciyes University. She attended to International SUmmer School in Affective Sciences, organized by Swiss Center for Affective Sciences, University of Geneva. She has a certificate as a result of completion of 3 credits graduate course on affective sciences.&lt;/p&gt;
+
+&lt;p&gt;She looks for a research position at academic institutions or research labs in the industry. Download her job package (CV, statements of research, teaching and diversity)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
